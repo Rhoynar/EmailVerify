@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- suite/test/classes||groups   -->
+<suite name="BDDTestSuite" verbose="1">
+    <test name="StartupTests">
+        <classes>
+            <class name="com.rhoynar.email.runners.EmailNotificationsRunner" />
+        </classes>
+    </test>
+</suite>
+
