@@ -33,5 +33,4 @@ public class ReadProperties {
         }
         return prop;
     }
-
 }
