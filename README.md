@@ -1,7 +1,7 @@
 # EmailVerify
 Library for verifying receiving email notifications in Java
 
-## What is this project aboue?
+## What is this project about?
 Many times we face a design pattern in our QA Automation jobs - how do I verify that my web application is sending the required email notifications? What if the user is unsubscribed - how do I verify that my web-app did NOT send the notificaction? How to verify email from a given sender is received? How to verify email contents? How to verify email contains a certain subject line?
 
 Many times we solve this problem by assuming that email has been sent somehow, and we just rely on website notifications (success or failure messages displayed on UI). But in order to thouroughly test the web application it is important to have a framework or library that can help us perform the above activities easily.
